@@ -28,7 +28,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Debian Bspwm Config](https://github.com/samwhelp/debian-bspwm-adjustment |
+| [Debian Bspwm Config](https://github.com/samwhelp/debian-bspwm-adjustment) |
 | [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
